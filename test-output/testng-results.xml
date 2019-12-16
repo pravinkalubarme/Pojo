@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2403" started-at="2019-12-16T12:51:24 IST" finished-at="2019-12-16T12:51:27 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2403" started-at="2019-12-16T12:51:24 IST" finished-at="2019-12-16T12:51:27 IST">
+      <class name="Inn.Pojo.TestClass">
+        <test-method status="PASS" signature="Example2()[pri:0, instance:Inn.Pojo.TestClass@67205a84]" name="Example2" duration-ms="2373" started-at="2019-12-16T12:51:24 IST" finished-at="2019-12-16T12:51:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Example2 -->
+      </class> <!-- Inn.Pojo.TestClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
