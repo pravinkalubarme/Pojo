@@ -18,8 +18,6 @@ public class TestClass {
         Assert.assertEquals(6, response.getPer_page());
         Assert.assertEquals(12, response.getTotal());
         Assert.assertEquals(2, response.getTotal_pages());
-        response.getData().size();
-        
         for (int i = 0; i < response.getData().size(); i++) {
         	 DataForPojo contentsOfData = response.getData().get(i);
         	System.out.println(contentsOfData.getId());
